@@ -1,0 +1,22 @@
+{
+  "name": "musicbot",
+  "version": "1.0.0",
+  "description": "A discord music bot based on node js ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/NihalUsmanFaisal/DiscordBot.git"
+  },
+  "author": "Nihal Usman Faisal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NihalUsmanFaisal/DiscordBot/issues"
+  },
+  "homepage": "https://github.com/NihalUsmanFaisal/DiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
