@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/NihalUsmanFaisal/DiscordBot#readme",
   "dependencies": {
-    "discord.js": "^13.6.0"
+    "@discordjs/builders": "^0.12.0",
+    "@discordjs/rest": "^0.3.0",
+    "@discordjs/voice": "^0.8.0",
+    "discord-api-types": "^0.27.2",
+    "discord.js": "^13.6.0",
+    "libsodium-wrappers": "^0.7.9"
   }
 }
